@@ -1,5 +1,14 @@
 ## Hi there 👋
+Hi 👋 My name is Abdullahi Hamisu
+=================================
 
+Data scientist
+--------------
+
+*   🌍  I'm based in Nigeria
+*   ✉️  You can contact me at [abdallahmaikudi1000@gmail.com](mailto:abdallahmaikudi1000@gmail.com)
+*   🧠  I'm learning Python for data science
+*   🤝  I'm open to collaborating on New project to gain experience
 <!--
 **Amadaki/Amadaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
